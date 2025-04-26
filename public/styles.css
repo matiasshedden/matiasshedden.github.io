@@ -190,6 +190,15 @@ input {
     border-radius: 5px;
 }
 
+/* About */
+#about .container{
+    background-color: #fff0e6; /* Color ligeramente diferente en sintonía con la paleta actual */
+    border: 1px solid #ccc; /* Pequeño borde gris */
+    padding: 1rem; /* Espaciado interno para mejor presentación */
+    border-radius: 5px; /* Bordes ligeramente redondeados para un mejor diseño */
+    text-justify: inter-word; /* Justifica el texto */
+}
+
 /* Footer */
 footer {
     text-align: center;
